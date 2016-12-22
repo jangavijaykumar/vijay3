@@ -212,3 +212,129 @@ cat>project one
 catproject>one
 cat projectone
 exit
+cd
+cat>text1
+git branch r1
+git branch
+git checkout
+git checkout r1
+git status
+git add text1
+git status
+
+git push -u origin master
+git push -u origin master
+git push r1
+git push r1
+git init
+git push r1
+git push https://github.com/jangavijaykumar/practice1demo.git
+cat>>test1
+git status
+git add .
+git commit -m"modified text"
+git log
+git status
+git commit -m"adsv"
+cat>>text1
+git add text1
+git status
+git commit -m"vijay add"
+git status
+git push https://github.com/jangavijaykumar/practice1demo.git
+cat test1
+cat text1
+git pull https://github.com/jangavijaykumar/practice1demo.git
+git status
+git commit -" remote text"
+git text1
+
+git pull https://github.com/jangavijaykumar/practice1demo.git
+git add text1
+git status
+git merge text1
+cat>>text1
+git add text1
+git commit -m "hanuma"
+git status
+cat text1
+git pull https://github.com/jangavijaykumar/practice1demo.git
+cd
+exit
+git status
+git commit -m"addfile"
+git push https://github.com/jangavijaykumar/practice1demo.git
+git branch
+git branch r3
+git branch
+git push https://github.com/jangavijaykumar/practice1demo.git
+git add .
+cd
+git it
+git init
+cd .git/
+ls
+ls -a
+cat text
+cat>text
+git add text
+cd
+git add text
+cat>text
+git add text
+add .
+git add text
+git status
+ls
+rm -f new
+rm -f minnu
+rmdir minnu
+rmdir-f minnu
+rmdir -f minnu
+cat>chinna
+git add chinna
+git status
+git chechout chinna
+git status
+git add chinna
+git status
+git branch
+git add chinna
+git commit -m "chinna"
+git clone https://github.com/jangavijaykumar/practice1demo.git
+git clone git@github.com:jangavijaykumar/practice1demo.git
+git remote add origin https://github.com/jangavijaykumar/practice1demo.git
+git pull https://github.com/jangavijaykumar/practice1demo.git
+git merge practice1demo
+git add/rm ..."
+practice
+
+
+
+
+
+git add README.md
+cd practice1demo
+git status
+cat>>minuu
+git add minnu
+git commite -m "minuu"
+cat>minnu
+git add minnu
+git status
+git commit -m "adding new file"
+git push https://github.com/jangavijaykumar/practice1demo.git
+git push https://github.com/jangavijaykumar/practice1demo.git
+git push -u origin master
+git branch
+git branch r1
+git branch
+git push https://github.com/jangavijaykumar/practice1demo.git
+git pull https://github.com/jangavijaykumar/practice1demo.git
+git merge
+cd
+git pull https://github.com/jangavijaykumar/practice1demo.git
+git push https://github.com/jangavijaykumar/practice1demo.git
+git push -u origin master
+ewefovgo
+exit
