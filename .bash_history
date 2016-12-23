@@ -1,67 +1,3 @@
-cd
-git status
-cat sample.txt
-git config --global user email networkvijay1@gmail.com
-git status
-add .
-git add .
-git status
-git commit -m sample.txt
-git push -u origin master
-git push sample.txt
-git init
-git status
-git add sample.txt
-git status
-git checkout master
-git clone
-git pull https://github.com/jangavijaykumar/practice1demo.git
-ssh  https://github.com/jangavijaykumar/practice1demo.git
-git pull https://github.com/jangavijaykumar/practice1demo.git
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git
-git push -u origin master
-ssh  https://github.com/jangavijaykumar/practice1demo.git
-git push -u origin master
-ssh -keygen
-ssh -keygen -t rsa
-ssh -keygen -trsa
-rsa -key
-ssh root
-ssh  https://github.com/jangavijaykumar/practice1demo.git
-cd
-wgethttps://packages.chef.io/files/stable/chefdk/1.1.16/ubuntu/16.04/chefdk_1.1.16-1_amd64.deb
-wgethttps://packages.chef.io/files/stable/chefdk/1.1.16/ubuntu/16.04/chefdk_1.1.16-1_amd64.deb
-wget https://packages.chef.io/files/stable/chefdk/1.1.16/ubuntu/16.04/chefdk_1.1.16-1_amd64.deb
-cat sample.txt
-cat>>sample.txt
-git add sample.txt 
-git commit -m "sample.txt"
-git status
-git commit -m"adding line"
-git push -u origin master
-git config --global user.name vijaykumar
-git config --global user.email networkvijay1@gmail.com
-git push -u origin master
-git commit -m"adding line"
-clear
-git commit -m"adding line"
-git log
-cat>>sample.txt
-git commit -m"new"
-git status
-git add sample.txt 
-git commit -m"new"
-git status
-cat sample.txt 
-git log
-git push -u origin master
-git clone  practice1demo/sample.txt 
-git init
-git push -u origin master
-git branch
-cd
-apt install chef*
-rpm -e chef* 
 rpm -e chef* package
 rpm -qa chef*
 cd /
@@ -338,3 +274,227 @@ git push https://github.com/jangavijaykumar/practice1demo.git
 git push -u origin master
 ewefovgo
 exit
+cd
+cd .git/
+ls
+cd
+ls
+ls -l
+cd .git/
+git init
+cat>vijay
+ls
+git add vijay
+git status
+git commit -m
+'
+-q,
+-q
+
+
+git commit -m"adding file"
+git push https://github.com/jangavijaykumar/practice1demo.git
+git push --set-upstream https://github.com/jangavijaykumar/practice1demo.git master
+git branch master
+git branch
+git push --set-upstream https://github.com/jangavijaykumar/practice1demo.git master
+git push -u origin master
+git remote add origin https://github.com/jangavijaykumar/practice1demo.git
+git push -u origin master
+cd
+git push -u origin master
+git branch vijay
+git branch
+git push r1
+git push vijay
+ls
+cat practice1demo
+mkdir git
+git init
+cd git
+ls
+cat>> sample.txt
+cd
+git add sample.txt
+git checkout sample.txt 
+git status
+git add .
+git status
+git commit -m"newfile"
+git push https://github.com/jangavijaykumar/practice1demo.git
+cd
+ls
+ls -l
+cd downloads
+cd download
+ls
+knife -v
+cd chef-repo
+ls -a
+ls -l
+cd
+ls
+cat /downloads
+knife clientlist
+service ntpd status
+service ntpd restart
+apt
+apt
+apt-get install ntpd
+vim knife rb
+cat>knife.rb
+knife cookbook list
+vim knife.rb
+apt install vim
+vim knife.rb
+chef apply sample.rb
+chef apply knife.rb
+chef-apply knife.rb
+ls
+cd opt
+cd opt/
+cd opt /
+cd /opt
+ls
+su
+cd
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
+sudo apt-get install google-chrome-stable
+q!
+sudo apt-get install google-chrome-stable
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+unzip chef -starter
+unzip chef -stater
+cd chef-repo
+unzip chef -stater
+unzip chef -starter
+ls -a
+ls
+su
+cd
+git branch
+cd r1
+cat>testing
+git add testing
+git commit -m "new"
+git status
+git push -u origin r1
+git remote add origin https://github.com/jangavijaykumar/second.git
+git push -u origin master
+git chechout btanch
+y
+git checkout branch
+ls
+ls
+ls
+ls
+ls
+rpm -ivh chefdk_1.1.16-1_amd64
+Alien -ivh chefdk_1.1.16-1_amd64
+cd /
+rpm install chefdk_1.1.16-1_amd64.deb
+rpm install chefdk_1.1.16-1_amd64
+rpm -qa chef*
+mkdir chef -repo
+mkdir chef-repo
+cd chef-repo
+ls -a
+rpm install chefdk_1.1.16-1_amd64
+rpm install chefdk_1.1.16-1_amd64.deb
+ls
+ls -l
+cd
+ls
+sudo dpkg chefdk_1.1.16-1_amd64.deb
+sudo install chefdk_1.1.16-1_amd64.deb
+sudo apt-get install chefdk_1.1.16-1_amd64.deb
+rpm -qa chef*
+rpm install chefdk_1.1.16-1_amd64 rpm
+dpkg -i chefdk_1.1.16-1_amd64.deb 
+chef -v
+knife -v
+mkdir chef-repo
+cd chef-repo
+ls -a
+unzip chef -starter
+su
+cd
+unzip chef -starter
+unzip chef-starter
+chef-starter.unzip
+unzip chef-starter
+cd chef-repo
+ls vim knife.rb
+ls vim knife.rb
+vim knife.rb
+cd
+root
+apt install root-system-bin
+git init
+git add malla.txt
+cat
+cat>malla.txt
+git add malla.txt
+git status
+git commit -m"updateing"
+
+git checkout malla.txt
+git pull https://github.com/jangavijaykumar/second.git
+echo "# second" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jangavijaykumar/second.git
+git push -u origin master
+master -->master
+vim knife.rb
+chef apply-knife.rb
+chef apply -knife.rb
+chef-apply.knife.rb
+chef-apply. knife.rb
+chef-apply  knife.rb
+chef-apply  -knife.rb
+vim knife.rb
+chef-apply  knife.rb
+vim knife.rb
+chef-apply  knife.rb
+ls
+cd devops
+cd
+vim knife.rb
+chef-apply  knife.rb
+ched-appy cookbook
+ls
+cd devops
+ls
+vim knife.rb
+chef-apply  knife.rb
+cd
+vim knife.rb
+chef-apply  knife.rb
+ls
+cat sevops
+cd folder2
+ls
+cd
+vim knife.rb
+chef-apply  knife.rb
+chef-apply knife.rb
+cd
+cd /
+ls
+cd
+vim knife.rb
+chef-apply knife.rb
+git init
+cat>malla.txt
+git add malla.txt
+git commit -m"first commit"
+git status
+git push -u origin master
+git branch
+git branch r3
+git branch r4
+git push -u origin master
+su
