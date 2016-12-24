@@ -1,128 +1,3 @@
-rpm -e chef* package
-rpm -qa chef*
-cd /
-rpm -qa chef*
-ps -ef|grep chef
-apt-get install chef*
-chef*
-apt-get install https://packages.chef.io/files/stable/chefdk/1.1.16/ubuntu/16.04/chefdk_1.1.16-1_amd64.deb
-wget https://packages.chef.io/files/stable/chefdk/1.1.16/ubuntu/16.04/chefdk_1.1.16-1_amd64.deb
-cd
-git pull https://github.com/jangavijaykumar/practice1demo.git
-cat sample.txt
-cat>demo
-git add demo
-git status
-git commit -m"new"
-git push -u origin master
-git pull https://github.com/jangavijaykumar/demo.git
-git init
-git pull https://github.com/jangavijaykumar/demo.git
-git add demo
-git status
-root
-apt install root-system-bin
-cd
-git status
-git init
-cat>>sapmle.txt
-git status
-git commit -m"updating"
-cat>>sapmle.txt
-git init
-git add sample.txt
-git commit -m "up2"
-git pull https://github.com/jangavijaykumar/demo.git
-git pull https://github.com/jangavijaykumar/demo.git
-git pull https://github.com/jangavijaykumar/practice1demo.git
-cat sapmle.txt
-vi sample.txt
-exit
-cd
-cat sapmle.txt
-git init
-git add .
-git add -m "first commit"
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git
-git push origin master 
-sudo apt-get remove git
-cd
-apt install git
-mkdir git
-cd git
-ls
-ls -a
-cat>>vi
-git init
-git add vi
-git commit -m"new"
-git push https://github.com/jangavijaykumar/practice1demo.git
-git push ---upstream https://github.com/jangavijaykumar/practice1demo.git master
-git push https://github.com/jangavijaykumar/practice1demo.git master
-git push https://github.com/jangavijaykumar/practice1demo.git master
-ls
-ls -l
-git push -u origin master
-cd
-ls
-rpm -ivh chefdk _1.1.16-1_amd64.deb
-rpm -ivh chefdk_1.1.16-1_amd64.deb
-rpm -ivh chefdk1.1.16-1_amd64.deb
-rpm -ivh chefdk_1.1.16-1_amd64.deb
-apt install chefdk_1.1.16-1_amd64.deb
-rpm -ivh chefdk_1.1.16-1_amd64.deb rpm
-rpm -ivh chefdk_1.1.16-1_amd64.deb rpm
-sudo apt install application.deb
-sudo apt install ~/Downloads/google-chrome-stable_current_amd64.deb
-sudo dpkg -i <path-to-downloaded-package>
-sudo dpkg -i chef-server-core_*.deb
-rm chef-server-core_*.deb
-sudo chef-server-ctl reconfigure
-cd
-echo "# new" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/veejjju/new.git
-git push -u origin master
-mkdir minnu
-cd
-cd minnu
-cat>new
-git init
-git add new
-git commit -m"first commit"
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git
-git push -u origin master
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git master
-cd
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git master
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git master
-git push -u origin master
-git pull ...
-apt install git
-echo"# practice1" >>README.md
-git init
-git add new
-ls
-ls-l
-ls -l
-ls
-cat>new
-git init
-git add new
-git commit -m "fitst commite"
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git master
-git remote add origin https://github.com/jangavijaykumar/practice1demo.git master
-git clone https://github.com/jangavijaykumar/practice1demo.git
-git clone https://github.com/jangavijaykumar/new.git
-git clone https://github.com/jangavijaykumar/new.git
-git push -u origin master
-sudo apt-get install git-core
-sudo useradd git
-passwd git
-ssh-keygen -t rsa
-sudo apt-get install postfix
 cat read.me
 cd
 apt install update
@@ -498,3 +373,128 @@ git branch r3
 git branch r4
 git push -u origin master
 su
+cd
+ls
+rmdir devops
+rmdir -f devops
+rmdir --help
+rm chinna
+rm git
+rmdir devops/
+rmdir /devops
+cd devops
+ls
+cd
+rmdir folder2
+rmdir folder3
+rmdir folder4
+rmdir folder5
+rmdir folder6
+rmdir folder7
+rmdir folder8
+rmdir folder10
+ls
+cd git
+ls
+rm malla.txt
+rm malla.txt
+rm test
+rmdir malla.txt
+cd
+rmdir test
+rm malla.txt
+rm testing
+rm text1
+rm minnu
+rmdir minnu
+cd minnu
+ls
+rm new
+cd
+rmdir minnu
+ls
+rmdir minnu
+cd minnu
+ls
+ls -l
+cd
+cat project one
+cd project one
+ls -ld
+ll
+ls -ld
+ls -l
+rm git
+rmdir git
+cd git
+ls
+rm one
+rm project
+rm samplr.txt
+rm sample.txt
+rm vi
+cd
+rm git
+rmdir git
+cd git
+ls
+cd
+rmdir git
+rm -f git
+ls
+ls -ld
+ls -l
+color1
+color blue
+change colour blue
+color --help
+colour -help
+rm test1
+rm text
+rm sample.txt
+rm sample.txt
+rm project one
+ls
+rm project
+rmdir sample.txt
+git init
+ls
+cat>first
+git README
+git --help
+git add first
+git commit -m"new"
+git status
+git on branch r1
+git branch
+git branch master
+git commit -m"new"
+cd git
+ls
+cd
+/
+cd/
+cd /
+cd root
+cd root/
+git reset
+git add first
+git commit -m"second"
+git status
+cat>first.txt
+git add 
+git add first.txt
+git add .
+git commit -m"first"
+git rm text1
+git status
+git commit -m"first"
+git commit -m"first"
+git remote add origin https://github.com/jangavijaykumar/second.git
+ls
+clear
+cd
+setterm -term linux -back <background_colour> -fore <text_color> -clear
+black|blue|green|cyan|red|magenta|yellow|white|default
+gconftool-2 --get /apps/gnome-terminal/global/profile_list
+gconftool-2 --set "/apps/gnome-terminal/profiles/<profile_name>/background_color" --type string "#000000"
